@@ -1,0 +1,8 @@
+flask
+flask-cors
+supabase
+cryptography
+bcrypt
+python-dotenv
+streamlit
+requests
